@@ -2,7 +2,7 @@
 "status":"OK",
 "tag":"payRequest",
 "commentAllowed":255,
-"callback":"https://getalby.com/lnurlp/bookit/callback",
+"callback":"regional-white-felidae@ghst.to",
 "metadata":"[[\"text/identifier\",\"bookit@getalby.com\"],[\"text/plain\",\"Sats for bookit\"]]",
 "minSendable":1000,
 "maxSendable":500000000,
