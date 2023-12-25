@@ -3,7 +3,7 @@
 "commentAllowed":255,
 "callback":"https://ghst.to/api/pay/regional-white-felidae",
 "metadata":"[[\"text/identifier\",\"bookit@thenostris.fun\"],[\"text/plain\",\"Sats for bookit\"]]",
-"minSendable":1000,
+"minSendable":1,
 "maxSendable":500000000,
 "email":{"mandatory":false},
 "pubkey":{"mandatory":false},
