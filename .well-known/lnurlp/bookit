@@ -1,7 +1,7 @@
 {"status":"OK",
 "tag":"payRequest",
 "commentAllowed":255,
-"callback":"https://ghst.to/api/pay/regional-white-felidae",
+"callback":"https://getalby.com/lnurlp/bookit/callback",
 "metadata":"[[\"text/identifier\",\"bookit@thenostris.fun\"],[\"text/plain\",\"Sats for bookit\"]]",
 "minSendable":1,
 "maxSendable":500000000,
